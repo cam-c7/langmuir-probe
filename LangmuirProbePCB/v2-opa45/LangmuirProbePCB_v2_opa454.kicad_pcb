@@ -4500,6 +4500,32 @@
 		(layer "Edge.Cuts")
 		(uuid "43587122-05e2-4f9f-9bfe-2776232db83b")
 	)
+	(gr_text "USC ASPEN"
+		(at 64.174734 43.506718 -0)
+		(layer "F.Cu")
+		(uuid "c1129068-8442-44bb-ae01-b0e7bc947807")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "USC ASPEN"
+		(at 81.5 43.5 0)
+		(layer "B.Cu")
+		(uuid "82dbd7ab-6440-4bbd-81b0-61b5d49a68c8")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 79.91 51.36)
 		(end 81.5 49.77)
